@@ -3,7 +3,3 @@ This project is a news scraper that extracts the latest articles from various ne
 
 
 
-
-🔧 Installation
-Clone the repo locally.
-Use the package manager pip to install the requirements.
